@@ -1,0 +1,13 @@
+#-----------------------------------------------------------
+# Vivado v2022.1 (64-bit)
+# SW Build 3526262 on Mon Apr 18 15:48:16 MDT 2022
+# IP Build 3524634 on Mon Apr 18 20:55:01 MDT 2022
+# Start of session at: Sat Sep 17 15:00:41 2022
+# Process ID: 37040
+# Current directory: C:/Users/User/Desktop/ceng 2010/ceng2010_lab1_q3/ceng2010_lab1_q3.runs/impl_1
+# Command line: vivado.exe -log q3.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source q3.tcl -notrace
+# Log file: C:/Users/User/Desktop/ceng 2010/ceng2010_lab1_q3/ceng2010_lab1_q3.runs/impl_1/q3.vdi
+# Journal file: C:/Users/User/Desktop/ceng 2010/ceng2010_lab1_q3/ceng2010_lab1_q3.runs/impl_1\vivado.jou
+# Running On: DESKTOP-7MQ3KNQ, OS: Windows, CPU Frequency: 3593 MHz, CPU Physical cores: 16, Host memory: 34268 MB
+#-----------------------------------------------------------
+source q3.tcl -notrace
